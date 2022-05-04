@@ -1,0 +1,12 @@
+/* Vise l'identifiant "modalOpen" situé sur le conteneur modal */
+#modalOpen:target {
+    display: flex;
+ }
+
+ #modalModifier:target {
+    display: flex;
+ }
+
+ #modalAjouter:target {
+    display: flex;
+ }
